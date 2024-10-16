@@ -35,7 +35,7 @@ export default function TicketPage() {
               <div className="text-xl sm:text-2xl font-bold">OCTOBER 17TH</div>
               <div className="flex items-center">
                 <Monitor className="mr-2" />
-                <span>VIRTUAL</span>
+                <span>Hyderabad</span>
               </div>
             </div>
             <div className="absolute bottom-6 left-6 right-6">
