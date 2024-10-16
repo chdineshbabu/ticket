@@ -18,7 +18,7 @@ export default function TicketPage() {
 
       <main className="flex flex-col lg:flex-row justify-between items-center px-4 sm:px-8 lg:px-16 py-12 lg:py-24 space-y-12 lg:space-y-0 lg:space-x-12">
         <div className="space-y-6 text-center lg:text-left">
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">Dinesh's<br />Ticket</h1>
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">Dinesh&apos;s<br />Ticket</h1>
           <p className="text-lg sm:text-xl">See you on October 17th.</p>
           <button className="bg-blue-600 text-white px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold rounded">GET TICKETS</button>
         </div>
